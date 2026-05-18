@@ -38,7 +38,7 @@ O projeto demonstra relacionamento **bidirecional** entre entidades:
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone <[url-do-repositorio](https://github.com/Pedroh-mxc/Sistema-de-Gest-o-de-Receitas-Culin-rias?authuser=6)>
 cd recipebook-backend
 
 # Execute
